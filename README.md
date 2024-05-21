@@ -4,7 +4,7 @@ This script was coded in python (3.10) and is able to generate a csv file contai
 
 # How does it works
 
-To run the script just issue => python generate_personalize_csv.py
+To execute the script just run the command: python generate_personalize_csv.py
 
 This will generate a file named data.csv containing records to be submited to personalize data set 
 
